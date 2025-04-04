@@ -1,3 +1,6 @@
+## Code from Klymus et al. 2020 https://doi.org/10.1002/edn3.29
+## See: https://github.com/cmerkes/qPCR_LOD_Calc/blob/master/LoD-calculator.R
+
 ## Before getting started, please read the notes and personalize lines 17, 20, 23,30
 ##    There are interactive codes, it is designed to be run using R studio 
 ##   where you can click on "source" after modifying lines 17, 20, 23, 30.
